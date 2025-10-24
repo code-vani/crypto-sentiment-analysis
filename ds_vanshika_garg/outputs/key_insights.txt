@@ -1,0 +1,29 @@
+
+🎯 KEY ACTIONABLE INSIGHTS:
+
+1. BEST SENTIMENT TO TRADE:
+   • Trade in Fear generated the highest total PnL
+   • Win Rate: 87.3%
+
+2. OPTIMAL TRADING HOUR:
+   • Hour 12:00 IST shows highest average PnL
+   • Avg PnL: $243.82
+
+3. HIGHEST WIN RATE:
+   • Trade in Extreme Greed has the best win rate
+   • Win Rate: 89.2%
+
+4. RISK MANAGEMENT:
+   • Implement stop-loss at VaR 95% level for each sentiment
+   • Consider position sizing based on sentiment volatility
+
+5. MACHINE LEARNING INSIGHTS:
+   • Model can predict profitable trades with 97.5% accuracy
+   • Top predictive features: Execution Price, Start Position, sentiment_value
+
+📊 RECOMMENDED TRADING STRATEGY:
+   ✓ Focus on Fear market conditions
+   ✓ Trade during optimal hours (12:00 IST ± 2 hours)
+   ✓ Use ML model for trade filtering (confidence threshold > 0.6)
+   ✓ Set risk per trade at 2-3% of capital
+   ✓ Monitor sentiment momentum for trend confirmation
