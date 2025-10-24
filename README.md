@@ -106,8 +106,11 @@ Accessible to anyone with the link (view-only):
 Deliver actionable insights to help Web3 trading teams:
 
 ✅ Manage risk efficiently
+
 ✅ Time trades better using market mood
+
 ✅ Improve profitability metrics
+
 
 ---
 
