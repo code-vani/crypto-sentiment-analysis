@@ -114,11 +114,3 @@ Deliver actionable insights to help Web3 trading teams:
 ## 🧑‍💻 Author
 
 **Vanshika Garg**
-Data Science Candidate – Web3 Trading Team
-GitHub: *(optional to add)*
-
-
-
-
-Just tell me — I’d be happy to help! 🚀
-```
